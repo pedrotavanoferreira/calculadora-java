@@ -5,6 +5,6 @@ public class Subtracao {
       int w=-5;
       int z=x-y-w;
 
-      System.out.println("o valor de x+y+w=" + z);
+      System.out.println("o valor de x-y-w=" + z);
     }
 }
