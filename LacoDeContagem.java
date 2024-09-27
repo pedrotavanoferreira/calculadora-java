@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class LacoDeContagem {
     public static void main(String[] args)
     {
-       Scanner entrada = new Scanner(System.in);
+        Scanner entrada = new Scanner(System.in);
        System.out.println("Digite um número:");
        int x;
        x = entrada.nextInt();
