@@ -2,7 +2,8 @@ import java.util.Scanner;
 public class ProcuraLetra2 {
     public static void main(String[] args)
      {
-        Scanner entrada = new Scanner(System.in);
+        Scanner entrada;
+        entrada = new Scanner(System.in);
         
         System.out.println("Digite uma palavra e eu vou achar quantas letras b existem nela:");
         String x;
